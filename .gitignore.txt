@@ -1,0 +1,4 @@
+bin/
+obj/
+StackAndQueue.csproj
+StackAndQueue.sln
